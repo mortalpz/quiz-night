@@ -220,7 +220,7 @@ window.QUIZ_SLIDES = [
     "title": "Втори кръг",
     "body": `	1. Кое е момичето от снимката?`,
     "images": [
-      "assets/image3.jpeg"
+      "assets/image2-1.jpeg"
     ],
     "audios": [],
     "videos": [],
@@ -232,7 +232,7 @@ window.QUIZ_SLIDES = [
     "title": "Втори кръг",
     "body": `	2. Какво е това?`,
     "images": [
-      "assets/image5.png"
+      "assets/image2-2.jpeg"
     ],
     "audios": [],
     "videos": [],
@@ -244,7 +244,7 @@ window.QUIZ_SLIDES = [
     "title": "Втори кръг",
     "body": `	3. Кой е това?`,
     "images": [
-      "assets/image6.png"
+      "assets/image2-3.jpeg"
     ],
     "audios": [],
     "videos": [],
@@ -256,7 +256,7 @@ window.QUIZ_SLIDES = [
     "title": "Втори кръг",
     "body": `	4. Кой е това?`,
     "images": [
-      "assets/image7.png"
+      "assets/image2-4.jpeg"
     ],
     "audios": [],
     "videos": [],
@@ -268,7 +268,7 @@ window.QUIZ_SLIDES = [
     "title": "Втори кръг",
     "body": `	5. Чие е логото?`,
     "images": [
-      "assets/image8.png"
+      "assets/image2-5.jpeg"
     ],
     "audios": [],
     "videos": [],
@@ -278,9 +278,9 @@ window.QUIZ_SLIDES = [
   {
     "number": 19,
     "title": "Втори кръг",
-    "body": `	6. Кой е това? (Двете имена)`,
+    "body": `	6. Кой е това?`,
     "images": [
-      "assets/image9.jpeg"
+      "assets/image2-6.jpeg"
     ],
     "audios": [],
     "videos": [],
@@ -290,9 +290,9 @@ window.QUIZ_SLIDES = [
   {
     "number": 20,
     "title": "Втори кръг",
-    "body": `	7. Кой е художникът? (Двете имена)`,
+    "body": `	7. Как е озаглавена тази картина`,
     "images": [
-      "assets/image10.png"
+      "assets/image2-7.jpeg"
     ],
     "audios": [],
     "videos": [],
@@ -371,7 +371,12 @@ window.QUIZ_SLIDES = [
   {
     "number": 25,
     "title": "Трети кръг",
-    "body": `	1. Как се нарича икономическият принцип, според който „лошите пари изтласкват добрите пари“?`,
+    "body": `	1. Кой сериал има най-много епизоди в историята на киното и телевизиата?
+	А) Докато свят светува
+	Б) Пътеводна светлина
+	В) Всички мои деца
+	Г) Дързост и красота
+	`,
     "images": [
       "assets/image1.png"
     ],
@@ -498,7 +503,7 @@ window.QUIZ_SLIDES = [
     "number": 35,
     "title": "Трети кръг - Отговори",
     "bodyHtml": `
-	1. Как се нарича принципът „лошите пари изтласкват добрите“? <span class="correct">Закон на Грешам</span><br>
+	1. Кой сериал има най-много епизоди в историята на киното и телевизиата? <span class="correct">Б) Пътеводна светлина - 18262 епизода (Докато свят светува - 13858, Всички мои деца - 10 755, Дързост и красота - над 9800, все още се снима)</span><br>
 	2. От кой филм е най-известна мелодията “Chi Mai” на Енио Мориконе? <span class="correct">Б) Професионалистът</span><br>
 	3. В кой град е подписан договорът за създаване на ЕС? <span class="correct">Маастрихт</span><br>
 	4. Как се нарича промяната на посоката на светлината при преминаване през различни среди? <span class="correct">Пречупване или рефракция</span><br>
