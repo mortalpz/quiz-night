@@ -571,11 +571,11 @@ window.QUIZ_SLIDES = [
   {
     "number": 40,
     "title": "Четвърти кръг",
-    "body": `	5. Кадри от кой филм гледате?`,
+    "body": `	5. Кадри от кой сериал гледате?`,
     "images": [],
     "audios": [],
     "videos": [
-      "assets/media5.mp4"
+      "assets/https://youtu.be/J7wabUY40Mc?si=r3UzHtSvupNa6_xM"
     ],
     "timer": 45,
     "answer": false
@@ -647,7 +647,7 @@ window.QUIZ_SLIDES = [
 	<span class="correct">2. Phil Collins - In the air tonight</span><br>
 	<span class="correct">3. Iron Maiden - Fear of the dark</span><br>
 	<span class="correct">4. Lili Ivanova</span><br>
-	<span class="correct">5. Back to the future</span><br>
+	<span class="correct">5. Стоте (The 100)</span><br>
 	<span class="correct">6. Fast & Furious</span><br>
 	<span class="correct">7. O-zone - Dragostea Din Tei</span><br>
 	<span class="correct">8. Dara - Bangaranga</span><br>
