@@ -526,7 +526,7 @@ window.QUIZ_SLIDES = [
     "body": `	1. Кой е изпълнителят на песента?`,
     "images": [],
     "audios": [
-      "assets/AxelF1.mp3"
+      "assets/Axelf1.mp3"
     ],
     "videos": [],
     "timer": 45,
@@ -643,10 +643,10 @@ window.QUIZ_SLIDES = [
   {
     "number": 46,
     "title": "Четвърти кръг - Отговори",
-    "body": `	<span class="correct">1. Toto - Africa</span><br>
-	<span class="correct">2. Sandra – In the heat of the night</span><br>
-	<span class="correct">3. Los del Rio - Macarena</span><br>
-	<span class="correct">4. Орлин Горанов</span><br>
+    "body": `	<span class="correct">1. Axel F - Crazy frog</span><br>
+	<span class="correct">2. Phil Collins - In the air tonight</span><br>
+	<span class="correct">3. Iron Maiden - Fear of the dark</span><br>
+	<span class="correct">4. Lili Ivanova</span><br>
 	<span class="correct">5. Back to the future</span><br>
 	<span class="correct">6. Fast & Furious</span><br>
 	<span class="correct">7. O-zone - Dragostea Din Tei</span><br>
