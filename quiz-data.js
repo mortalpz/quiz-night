@@ -526,7 +526,7 @@ window.QUIZ_SLIDES = [
     "body": `	1. Кой е изпълнителят на песента?`,
     "images": [],
     "audios": [
-      "assets/media1.mp3"
+      "assets/AxelF1.mp3"
     ],
     "videos": [],
     "timer": 45,
@@ -535,10 +535,10 @@ window.QUIZ_SLIDES = [
   {
     "number": 37,
     "title": "Четвърти кръг",
-    "body": `	2. Кой е изпълнителят на песента?`,
+    "body": `	2.  Как е заглавието на песента?`,
     "images": [],
     "audios": [
-      "assets/media2.mp3"
+      "assets/Phil Collins In the air tonight1.mp3"
     ],
     "videos": [],
     "timer": 45,
@@ -547,10 +547,10 @@ window.QUIZ_SLIDES = [
   {
     "number": 38,
     "title": "Четвърти кръг",
-    "body": `	3. Кой е изпълнителят на песента?`,
+    "body": `	3. Как е заглавието на песента?`,
     "images": [],
     "audios": [
-      "assets/media3.mp3"
+      "assets/Fearofthedark1.mp3"
     ],
     "videos": [],
     "timer": 45,
