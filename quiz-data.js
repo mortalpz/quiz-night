@@ -562,7 +562,7 @@ window.QUIZ_SLIDES = [
     "body": `	4. Чий е гласът от записа?`,
     "images": [],
     "audios": [
-      "assets/media4.mp3"
+      "assets/Liliivanova1.mp3"
     ],
     "videos": [],
     "timer": 45,
