@@ -304,7 +304,7 @@ window.QUIZ_SLIDES = [
     "title": "Втори кръг",
     "body": `	8. Кой е това? (Двете имена)`,
     "images": [
-      "assets/image11.png"
+      "assets/Screenshot_20260729-191508.png"
     ],
     "audios": [],
     "videos": [],
@@ -316,7 +316,7 @@ window.QUIZ_SLIDES = [
     "title": "Втори кръг",
     "body": `	9. Кой е това? (Двете имена)`,
     "images": [
-      "assets/image12.png"
+      "assets/Screenshot_20260729-190526.png"
     ],
     "audios": [],
     "videos": [],
@@ -328,7 +328,7 @@ window.QUIZ_SLIDES = [
     "title": "Втори кръг",
     "body": `	10. Чие е логото?`,
     "images": [
-      "assets/image13.png"
+      "assets/Screenshot_20260729-190915.png"
     ],
     "audios": [],
     "videos": [],
@@ -345,9 +345,9 @@ window.QUIZ_SLIDES = [
 	5. Проктър енд Гембъл
 	6. Карл Маркс 
 	7. Сътворението на Адам
-	8. Камелия Тодорова
-	9. Мик Джагър
-	10. Майбах`,
+	8. Арнолд Шварценегер 
+	9. Аксел Роуз 
+	10. Нестле`,
     "images": [
       "assets/image1.png"
     ],
